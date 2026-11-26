@@ -783,3 +783,16 @@ Other things I've made:
 - [BestSelf.co](https://bestself.co): the SELF Journal and other paper tools for getting things done. Started on Kickstarter in 2015, sold to private equity in 2022, bought back 14 months later ([the story](https://www.littlemight.com/100-days-lessons-from-buying-my-business-back-from-private-equity/)).
 
 If this is useful, **star the repo** and come [say hi on X](https://x.com/cathrynlavery).
+
+<!-- station-x-repository-guide:start -->
+
+## Guía de esta copia
+
+### Puntos de entrada
+Consulta la instalación original para el asistente que uses. [skills](./skills) contiene las instrucciones de diseño, [docs](./docs) ofrece documentación de referencia y [assets](./assets) reúne material visual del proyecto.
+### Revisión de cambios
+Usa [CONTRIBUTING.md](./CONTRIBUTING.md) para preparar las comprobaciones de documentación, galería y consistencia visual. [scripts](./scripts) contiene las verificaciones reproducibles del repositorio.
+### Uso y colaboración
+Para una documentación de uso, referencia los ejemplos existentes y conserva sus rutas. Los cambios de tipos de diagrama tienen su propio procedimiento de registro, pruebas y actualización de la galería.
+
+<!-- station-x-repository-guide:end -->
